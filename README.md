@@ -1,0 +1,2 @@
+UsesOfConstructor5
+==================
